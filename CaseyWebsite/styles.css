@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: darkolivegreen;
+}
+html{
+text-align: center;
+}
+
+
+h1,h2{
+color: whitesmoke;
+text-align: center;
+font-family: 'Courier New', Courier, monospace;
+}
+
+p{
+color: whitesmoke;
+font-family: 'Courier New', Courier, monospace;
+font-size: 20px;
+}
